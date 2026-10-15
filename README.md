@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Marianna 👋
 
-<!--
-**mariannakuzmenko/mariannakuzmenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer · Frontend Developer · UX/UI Designer · AI-assisted Developer
 
-Here are some ideas to get you started:
+I build modern websites and digital products by combining frontend development, UX/UI design and AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy taking a project from an initial idea to a functional, responsive and deployed product.
+
+### Tech Stack
+
+- TypeScript
+- JavaScript
+- React
+- HTML5
+- CSS3
+- Figma
+- GitHub
+- Netlify
+- AI-assisted development
+
+### Featured Projects
+
+🌿 **My Serene**  
+Relaxation & productivity web application
+
+🎨 **Marianna's Digital Craft**  
+Modern web development project
+
+🏥 **Euro Medical Identity**  
+Responsive web project
+
+### Currently
+
+Building digital products and expanding my skills in modern frontend and AI-assisted development.
+
+📍 Germany  
+💻 Open to remote opportunities
